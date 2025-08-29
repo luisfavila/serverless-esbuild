@@ -28,9 +28,6 @@
     "url": "https://floydspace.github.io"
   },
   "main": "dist/index.js",
-  "files": [
-    "dist"
-  ],
   "scripts": {
     "prepublishOnly": "npm run build",
     "precommit": "npm run test",
